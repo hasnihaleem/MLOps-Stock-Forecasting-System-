@@ -1,0 +1,14 @@
+joblib==1.5.1
+numpy==2.3.1
+optuna==4.4.0
+pandas==2.3.1
+prefect==3.4.10
+prefect_aws==0.5.12
+scikit_learn==1.7.1
+yfinance==0.2.65
+mlflow==3.1.1
+psycopg2-binary==2.9.10
+prometheus-client==0.22.1
+pytest==8.4.1
+flake8==7.3.0
+black==25.1.0

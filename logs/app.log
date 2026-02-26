@@ -1,0 +1,564 @@
+2025-07-21 15:54:16 | __main__ | INFO | Loading data for AAPL from 2025-01-01 to 2025-07-21...
+2025-07-21 15:54:20 | __main__ | INFO | Loading data for GOOGL from 2025-01-01 to 2025-07-21...
+2025-07-21 15:54:22 | __main__ | INFO | Loading data for MSFT from 2025-01-01 to 2025-07-21...
+2025-07-21 15:54:23 | __main__ | INFO | Loading data for NVDA from 2025-01-01 to 2025-07-21...
+2025-07-21 15:54:25 | __main__ | INFO | Loading data for AMZN from 2025-01-01 to 2025-07-21...
+2025-07-21 15:54:26 | __main__ | INFO | Loading data for META from 2025-01-01 to 2025-07-21...
+2025-07-21 15:54:26 | __main__ | INFO | Exported AAPL data to data/raw/AAPL.csv
+2025-07-21 15:54:26 | __main__ | INFO | Exported GOOGL data to data/raw/GOOGL.csv
+2025-07-21 15:54:26 | __main__ | INFO | Exported MSFT data to data/raw/MSFT.csv
+2025-07-21 15:54:27 | __main__ | INFO | Exported NVDA data to data/raw/NVDA.csv
+2025-07-21 15:54:27 | __main__ | INFO | Exported AMZN data to data/raw/AMZN.csv
+2025-07-21 15:54:27 | __main__ | INFO | Exported META data to data/raw/META.csv
+2025-07-21 16:01:52 | __main__ | INFO | Starting data preparation flow...
+2025-07-21 16:01:52 | __main__ | INFO | Loading data for AAPL from 2025-01-01 to 2025-07-21...
+2025-07-21 16:01:54 | __main__ | INFO | Loading data for GOOGL from 2025-01-01 to 2025-07-21...
+2025-07-21 16:01:55 | __main__ | INFO | Loading data for MSFT from 2025-01-01 to 2025-07-21...
+2025-07-21 16:01:56 | __main__ | INFO | Loading data for NVDA from 2025-01-01 to 2025-07-21...
+2025-07-21 16:01:57 | __main__ | INFO | Loading data for AMZN from 2025-01-01 to 2025-07-21...
+2025-07-21 16:01:58 | __main__ | INFO | Loading data for META from 2025-01-01 to 2025-07-21...
+2025-07-21 16:01:59 | __main__ | INFO | Exported AAPL data to data/raw/AAPL.csv
+2025-07-21 16:01:59 | __main__ | INFO | Exported GOOGL data to data/raw/GOOGL.csv
+2025-07-21 16:01:59 | __main__ | INFO | Exported MSFT data to data/raw/MSFT.csv
+2025-07-21 16:01:59 | __main__ | INFO | Exported NVDA data to data/raw/NVDA.csv
+2025-07-21 16:01:59 | __main__ | INFO | Exported AMZN data to data/raw/AMZN.csv
+2025-07-21 16:01:59 | __main__ | INFO | Exported META data to data/raw/META.csv
+2025-07-21 16:01:59 | __main__ | INFO | Data preparation flow completed successfully.
+2025-07-21 16:07:24 | __main__ | INFO | Starting data preparation flow...
+2025-07-21 16:07:24 | __main__ | INFO | Loading stock data from 2025-01-01 to 2025-07-21 for 6 stocks.
+2025-07-21 16:07:32 | __main__ | INFO | Exported AAPL data to data/raw/AAPL.csv
+2025-07-21 16:07:32 | __main__ | INFO | Exported GOOGL data to data/raw/GOOGL.csv
+2025-07-21 16:07:32 | __main__ | INFO | Exported MSFT data to data/raw/MSFT.csv
+2025-07-21 16:07:32 | __main__ | INFO | Exported NVDA data to data/raw/NVDA.csv
+2025-07-21 16:07:32 | __main__ | INFO | Exported AMZN data to data/raw/AMZN.csv
+2025-07-21 16:07:32 | __main__ | INFO | Exported META data to data/raw/META.csv
+2025-07-21 16:07:32 | __main__ | INFO | Data preparation flow completed successfully.
+2025-07-21 16:18:10 | __main__ | INFO | Starting data preparation flow...
+2025-07-21 16:18:10 | __main__ | INFO | Loading stock data from 2025-01-01 to 2025-07-21 for 6 stocks.
+2025-07-21 16:20:39 | __main__ | INFO | Starting data preparation flow...
+2025-07-21 16:20:39 | __main__ | INFO | Loading stock data from 2025-01-01 to 2025-07-21 for 6 stocks.
+2025-07-22 02:58:33 | __main__ | INFO | Starting data preparation flow...
+2025-07-22 02:58:33 | __main__ | INFO | Loading stock data from 2025-01-01 to 2025-07-22 for 6 stocks.
+2025-07-22 03:00:33 | __main__ | INFO | Starting data preparation flow...
+2025-07-22 03:00:33 | __main__ | INFO | Loading stock data from 2025-01-01 to 2025-07-22 for 6 stocks.
+2025-07-22 03:04:16 | __main__ | INFO | Starting data preparation flow...
+2025-07-22 03:04:16 | __main__ | INFO | Loading stock data from 2025-01-01 to 2025-07-22 for 6 stocks.
+2025-07-22 03:04:20 | __main__ | INFO | Exported AAPL data to data/raw/AAPL.csv
+2025-07-22 03:04:20 | __main__ | INFO | Exported GOOGL data to data/raw/GOOGL.csv
+2025-07-22 03:04:20 | __main__ | INFO | Exported MSFT data to data/raw/MSFT.csv
+2025-07-22 03:04:20 | __main__ | INFO | Exported NVDA data to data/raw/NVDA.csv
+2025-07-22 03:04:20 | __main__ | INFO | Exported AMZN data to data/raw/AMZN.csv
+2025-07-22 03:04:20 | __main__ | INFO | Exported META data to data/raw/META.csv
+2025-07-22 03:04:20 | __main__ | INFO | Data preparation flow completed successfully.
+2025-07-22 03:33:06 | __main__ | INFO | Starting data preparation flow...
+2025-07-22 03:33:06 | __main__ | INFO | Loading stock data from 2025-01-01 to 2025-07-22 for 6 stocks.
+2025-07-22 03:33:10 | __main__ | INFO | Exported AAPL data to data/raw/AAPL.csv
+2025-07-22 03:33:10 | __main__ | INFO | Exported GOOGL data to data/raw/GOOGL.csv
+2025-07-22 03:33:10 | __main__ | INFO | Exported MSFT data to data/raw/MSFT.csv
+2025-07-22 03:33:10 | __main__ | INFO | Exported NVDA data to data/raw/NVDA.csv
+2025-07-22 03:33:10 | __main__ | INFO | Exported AMZN data to data/raw/AMZN.csv
+2025-07-22 03:33:10 | __main__ | INFO | Exported META data to data/raw/META.csv
+2025-07-22 03:33:10 | __main__ | INFO | Exported AAPL data to data/processed/AAPL.csv
+2025-07-22 03:33:11 | __main__ | INFO | Exported GOOGL data to data/processed/GOOGL.csv
+2025-07-22 03:33:11 | __main__ | INFO | Exported MSFT data to data/processed/MSFT.csv
+2025-07-22 03:33:11 | __main__ | INFO | Exported NVDA data to data/processed/NVDA.csv
+2025-07-22 03:33:11 | __main__ | INFO | Exported AMZN data to data/processed/AMZN.csv
+2025-07-22 03:33:11 | __main__ | INFO | Exported META data to data/processed/META.csv
+2025-07-22 03:33:11 | __main__ | INFO | Data preparation flow completed successfully.
+2025-07-22 03:37:47 | __main__ | INFO | Starting data preparation flow...
+2025-07-22 03:37:47 | __main__ | INFO | Loading stock data from 2025-01-01 to 2025-07-22 for 6 stocks.
+2025-07-22 03:37:51 | __main__ | INFO | Exported AAPL data to data/raw/AAPL.csv
+2025-07-22 03:37:51 | __main__ | INFO | Exported GOOGL data to data/raw/GOOGL.csv
+2025-07-22 03:37:51 | __main__ | INFO | Exported MSFT data to data/raw/MSFT.csv
+2025-07-22 03:37:51 | __main__ | INFO | Exported NVDA data to data/raw/NVDA.csv
+2025-07-22 03:37:51 | __main__ | INFO | Exported AMZN data to data/raw/AMZN.csv
+2025-07-22 03:37:51 | __main__ | INFO | Exported META data to data/raw/META.csv
+2025-07-22 03:37:51 | __main__ | INFO | Exported AAPL train to data/processed/train/AAPL.csv
+2025-07-22 03:37:51 | __main__ | INFO | Exported AAPL test to data/processed/test/AAPL.csv
+2025-07-22 03:37:51 | __main__ | INFO | Exported GOOGL train to data/processed/train/GOOGL.csv
+2025-07-22 03:37:51 | __main__ | INFO | Exported GOOGL test to data/processed/test/GOOGL.csv
+2025-07-22 03:37:51 | __main__ | INFO | Exported MSFT train to data/processed/train/MSFT.csv
+2025-07-22 03:37:51 | __main__ | INFO | Exported MSFT test to data/processed/test/MSFT.csv
+2025-07-22 03:37:51 | __main__ | INFO | Exported NVDA train to data/processed/train/NVDA.csv
+2025-07-22 03:37:51 | __main__ | INFO | Exported NVDA test to data/processed/test/NVDA.csv
+2025-07-22 03:37:52 | __main__ | INFO | Exported AMZN train to data/processed/train/AMZN.csv
+2025-07-22 03:37:52 | __main__ | INFO | Exported AMZN test to data/processed/test/AMZN.csv
+2025-07-22 03:37:52 | __main__ | INFO | Exported META train to data/processed/train/META.csv
+2025-07-22 03:37:52 | __main__ | INFO | Exported META test to data/processed/test/META.csv
+2025-07-22 03:37:52 | __main__ | INFO | Data preparation flow completed successfully.
+2025-07-22 04:04:50 | __main__ | INFO | Starting data preparation flow...
+2025-07-22 04:04:50 | __main__ | INFO | Loading stock data from 2025-01-01 to 2025-07-22 for 6 stocks.
+2025-07-22 04:04:54 | __main__ | INFO | Exported AAPL data to data/raw/AAPL.csv
+2025-07-22 04:04:54 | __main__ | INFO | Exported GOOGL data to data/raw/GOOGL.csv
+2025-07-22 04:04:54 | __main__ | INFO | Exported MSFT data to data/raw/MSFT.csv
+2025-07-22 04:04:54 | __main__ | INFO | Exported NVDA data to data/raw/NVDA.csv
+2025-07-22 04:04:54 | __main__ | INFO | Exported AMZN data to data/raw/AMZN.csv
+2025-07-22 04:04:54 | __main__ | INFO | Exported META data to data/raw/META.csv
+2025-07-22 04:07:56 | __main__ | INFO | Starting data preparation flow...
+2025-07-22 04:07:56 | __main__ | INFO | Loading stock data from 2025-01-01 to 2025-07-22 for 6 stocks.
+2025-07-22 04:08:00 | __main__ | INFO | Exported AAPL data to data/raw/AAPL.csv
+2025-07-22 04:08:00 | __main__ | INFO | Exported GOOGL data to data/raw/GOOGL.csv
+2025-07-22 04:08:00 | __main__ | INFO | Exported MSFT data to data/raw/MSFT.csv
+2025-07-22 04:08:00 | __main__ | INFO | Exported NVDA data to data/raw/NVDA.csv
+2025-07-22 04:08:00 | __main__ | INFO | Exported AMZN data to data/raw/AMZN.csv
+2025-07-22 04:08:00 | __main__ | INFO | Exported META data to data/raw/META.csv
+2025-07-22 04:08:01 | __main__ | INFO | Data preparation flow completed successfully.
+2025-07-22 04:22:37 | __main__ | INFO | Starting data preparation flow...
+2025-07-22 04:22:37 | __main__ | INFO | Loading stock data from 2025-01-01 to 2025-07-22 for 6 stocks.
+2025-07-22 04:22:41 | __main__ | INFO | Exported AAPL data to data/raw/AAPL.csv
+2025-07-22 04:22:41 | __main__ | INFO | Exported GOOGL data to data/raw/GOOGL.csv
+2025-07-22 04:22:41 | __main__ | INFO | Exported MSFT data to data/raw/MSFT.csv
+2025-07-22 04:22:41 | __main__ | INFO | Exported NVDA data to data/raw/NVDA.csv
+2025-07-22 04:22:41 | __main__ | INFO | Exported AMZN data to data/raw/AMZN.csv
+2025-07-22 04:22:41 | __main__ | INFO | Exported META data to data/raw/META.csv
+2025-07-22 04:27:28 | __main__ | INFO | Starting data preparation flow...
+2025-07-22 04:27:28 | __main__ | INFO | Loading stock data from 2025-01-01 to 2025-07-22 for 6 stocks.
+2025-07-22 04:27:32 | __main__ | INFO | Exported AAPL data to data/raw/AAPL.csv
+2025-07-22 04:27:32 | __main__ | INFO | Exported GOOGL data to data/raw/GOOGL.csv
+2025-07-22 04:27:32 | __main__ | INFO | Exported MSFT data to data/raw/MSFT.csv
+2025-07-22 04:27:32 | __main__ | INFO | Exported NVDA data to data/raw/NVDA.csv
+2025-07-22 04:27:32 | __main__ | INFO | Exported AMZN data to data/raw/AMZN.csv
+2025-07-22 04:27:32 | __main__ | INFO | Exported META data to data/raw/META.csv
+2025-07-22 04:27:33 | __main__ | INFO | Data preparation flow completed successfully.
+2025-07-22 04:32:04 | __main__ | INFO | Starting data preparation flow...
+2025-07-22 04:32:05 | __main__ | INFO | Loading stock data from 2025-01-01 to 2025-07-22 for 6 stocks.
+2025-07-22 04:32:08 | __main__ | INFO | Exported AAPL data to data/raw/AAPL.csv
+2025-07-22 04:32:08 | __main__ | INFO | Exported GOOGL data to data/raw/GOOGL.csv
+2025-07-22 04:32:08 | __main__ | INFO | Exported MSFT data to data/raw/MSFT.csv
+2025-07-22 04:32:08 | __main__ | INFO | Exported NVDA data to data/raw/NVDA.csv
+2025-07-22 04:32:08 | __main__ | INFO | Exported AMZN data to data/raw/AMZN.csv
+2025-07-22 04:32:08 | __main__ | INFO | Exported META data to data/raw/META.csv
+2025-07-22 04:32:09 | __main__ | INFO | Data preparation flow completed successfully.
+2025-07-22 06:34:51 | __main__ | INFO | Starting data preparation flow...
+2025-07-22 06:34:51 | __main__ | INFO | Loading stock data from 2025-01-01 to 2025-07-22 for 6 stocks.
+2025-07-22 06:34:55 | __main__ | INFO | Exported AAPL data to data/raw/AAPL.csv
+2025-07-22 06:34:55 | __main__ | INFO | Exported GOOGL data to data/raw/GOOGL.csv
+2025-07-22 06:34:55 | __main__ | INFO | Exported MSFT data to data/raw/MSFT.csv
+2025-07-22 06:34:55 | __main__ | INFO | Exported NVDA data to data/raw/NVDA.csv
+2025-07-22 06:34:55 | __main__ | INFO | Exported AMZN data to data/raw/AMZN.csv
+2025-07-22 06:34:55 | __main__ | INFO | Exported META data to data/raw/META.csv
+2025-07-22 06:34:56 | __main__ | INFO | Data preparation flow completed successfully.
+2025-07-22 13:50:37 | __main__ | INFO | Starting Optuna optimization with 2 trials...
+2025-07-22 14:06:47 | __main__ | INFO | Starting Optuna optimization with 2 trials...
+2025-07-22 14:06:49 | __main__ | INFO | Optuna optimization completed.
+2025-07-22 14:07:30 | __main__ | INFO | Starting Optuna optimization with 2 trials...
+2025-07-22 14:07:32 | __main__ | INFO | Optuna optimization completed.
+2025-07-22 14:07:32 | __main__ | INFO | MLflow logging for the best model...
+2025-07-22 14:07:37 | __main__ | INFO | Training complete - RMSE on test set: 6.5522
+2025-07-22 14:14:00 | __main__ | INFO | Starting Optuna optimization with 2 trials...
+2025-07-22 14:14:02 | __main__ | INFO | Optuna optimization completed.
+2025-07-22 14:14:02 | __main__ | INFO | MLflow logging for the best model...
+2025-07-22 14:14:04 | __main__ | INFO | Training complete - RMSE on test set: 6.1948
+2025-07-22 14:51:44 | __main__ | INFO | Starting Optuna optimization with 20 trials...
+2025-07-22 14:52:42 | __main__ | INFO | Optuna optimization completed.
+2025-07-22 14:52:42 | __main__ | INFO | Training complete - RMSE on test set: 6.0435
+2025-07-22 15:06:33 | __main__ | INFO | Searching for best model in experiment: stock_price_prediction
+2025-07-22 15:06:33 | __main__ | INFO | Registering best model from run_id=c7fcd456754d474d884a1f74024cbb91 with RMSE=6.0435
+2025-07-22 15:10:48 | __main__ | INFO | Searching for best model in experiment: stock_price_prediction
+2025-07-22 15:10:48 | __main__ | INFO | Registering best model from run_id=c7fcd456754d474d884a1f74024cbb91 with RMSE=6.0435
+2025-07-22 15:10:48 | __main__ | INFO | Model registered: name=stock-ema-model, version=1
+2025-07-22 16:12:23 | __main__ | INFO | Starting data preparation flow...
+2025-07-22 16:12:23 | __main__ | INFO | Loading stock data from 2025-01-01 to 2025-07-22 for 6 stocks.
+2025-07-22 16:12:28 | __main__ | INFO | Exported AAPL data to data/raw/AAPL.csv
+2025-07-22 16:12:28 | __main__ | INFO | Exported GOOGL data to data/raw/GOOGL.csv
+2025-07-22 16:12:28 | __main__ | INFO | Exported MSFT data to data/raw/MSFT.csv
+2025-07-22 16:12:28 | __main__ | INFO | Exported NVDA data to data/raw/NVDA.csv
+2025-07-22 16:12:28 | __main__ | INFO | Exported AMZN data to data/raw/AMZN.csv
+2025-07-22 16:12:28 | __main__ | INFO | Exported META data to data/raw/META.csv
+2025-07-22 16:12:29 | __main__ | INFO | Data preparation flow completed successfully.
+2025-07-22 16:14:11 | __main__ | INFO | Starting data preparation flow...
+2025-07-22 16:14:11 | __main__ | INFO | Loading stock data from 2025-01-01 to 2025-07-22 for 6 stocks.
+2025-07-22 16:14:14 | __main__ | INFO | Exported AAPL data to data/raw/AAPL.csv
+2025-07-22 16:14:14 | __main__ | INFO | Exported GOOGL data to data/raw/GOOGL.csv
+2025-07-22 16:14:14 | __main__ | INFO | Exported MSFT data to data/raw/MSFT.csv
+2025-07-22 16:14:14 | __main__ | INFO | Exported NVDA data to data/raw/NVDA.csv
+2025-07-22 16:14:14 | __main__ | INFO | Exported AMZN data to data/raw/AMZN.csv
+2025-07-22 16:14:14 | __main__ | INFO | Exported META data to data/raw/META.csv
+2025-07-22 16:14:15 | __main__ | INFO | Data preparation flow completed successfully.
+2025-07-22 16:15:08 | __main__ | INFO | Starting Optuna optimization with 20 trials...
+2025-07-22 16:16:03 | __main__ | INFO | Optuna optimization completed.
+2025-07-22 16:16:03 | __main__ | INFO | Training complete - RMSE on test set: 6.2223
+2025-07-22 16:16:27 | __main__ | INFO | Searching for best model in experiment: stock_price_prediction
+2025-07-22 16:16:27 | __main__ | INFO | Registering best model from run_id=d52280f3ec144119906fc4be0c1fe7aa with RMSE=6.2223
+2025-07-22 16:16:27 | __main__ | INFO | Model registered: name=stock-ema-model, version=2
+2025-07-23 03:24:06 | __main__ | INFO | Successfully loggin model from registry.
+2025-07-23 03:25:20 | __main__ | INFO | Successfully logging model from registry.
+2025-07-23 03:25:20 | __main__ | INFO | Loading stock data at 2025-07-22 for 6 stocks.
+2025-07-23 03:25:24 | __main__ | INFO | Exported AAPL data to data/inference/raw/AAPL.csv
+2025-07-23 03:25:24 | __main__ | INFO | Exported GOOGL data to data/inference/raw/GOOGL.csv
+2025-07-23 03:25:24 | __main__ | INFO | Exported MSFT data to data/inference/raw/MSFT.csv
+2025-07-23 03:25:24 | __main__ | INFO | Exported NVDA data to data/inference/raw/NVDA.csv
+2025-07-23 03:25:24 | __main__ | INFO | Exported AMZN data to data/inference/raw/AMZN.csv
+2025-07-23 03:25:24 | __main__ | INFO | Exported META data to data/inference/raw/META.csv
+2025-07-23 03:26:47 | __main__ | INFO | Starting data preparation flow...
+2025-07-23 03:26:47 | __main__ | INFO | Loading stock data from 2025-01-01 to 2025-07-23 for 6 stocks.
+2025-07-23 03:26:51 | __main__ | INFO | Exported AAPL data to data/train/raw/AAPL.csv
+2025-07-23 03:26:51 | __main__ | INFO | Exported GOOGL data to data/train/raw/GOOGL.csv
+2025-07-23 03:26:51 | __main__ | INFO | Exported MSFT data to data/train/raw/MSFT.csv
+2025-07-23 03:26:51 | __main__ | INFO | Exported NVDA data to data/train/raw/NVDA.csv
+2025-07-23 03:26:51 | __main__ | INFO | Exported AMZN data to data/train/raw/AMZN.csv
+2025-07-23 03:26:51 | __main__ | INFO | Exported META data to data/train/raw/META.csv
+2025-07-23 03:30:00 | __main__ | INFO | Starting data preparation flow...
+2025-07-23 03:30:00 | __main__ | INFO | Loading stock data from 2025-01-01 to 2025-07-23 for 6 stocks.
+2025-07-23 03:30:05 | __main__ | INFO | Exported AAPL data to data/train/raw/AAPL.csv
+2025-07-23 03:30:05 | __main__ | INFO | Exported GOOGL data to data/train/raw/GOOGL.csv
+2025-07-23 03:30:05 | __main__ | INFO | Exported MSFT data to data/train/raw/MSFT.csv
+2025-07-23 03:30:05 | __main__ | INFO | Exported NVDA data to data/train/raw/NVDA.csv
+2025-07-23 03:30:05 | __main__ | INFO | Exported AMZN data to data/train/raw/AMZN.csv
+2025-07-23 03:30:05 | __main__ | INFO | Exported META data to data/train/raw/META.csv
+2025-07-23 03:30:06 | __main__ | INFO | Data preparation flow completed successfully.
+2025-07-23 03:33:55 | __main__ | INFO | Starting data preparation flow...
+2025-07-23 03:33:55 | __main__ | INFO | Loading stock data from 2025-01-01 to 2025-07-23 for 6 stocks.
+2025-07-23 03:33:59 | __main__ | INFO | Exported AAPL data to data/train/raw/AAPL.csv
+2025-07-23 03:33:59 | __main__ | INFO | Exported GOOGL data to data/train/raw/GOOGL.csv
+2025-07-23 03:33:59 | __main__ | INFO | Exported MSFT data to data/train/raw/MSFT.csv
+2025-07-23 03:33:59 | __main__ | INFO | Exported NVDA data to data/train/raw/NVDA.csv
+2025-07-23 03:33:59 | __main__ | INFO | Exported AMZN data to data/train/raw/AMZN.csv
+2025-07-23 03:33:59 | __main__ | INFO | Exported META data to data/train/raw/META.csv
+2025-07-23 03:33:59 | __main__ | INFO | Exported train_df to data/train/processed/train.csv
+2025-07-23 03:34:00 | __main__ | INFO | Data preparation flow completed successfully.
+2025-07-23 03:35:40 | __main__ | INFO | Starting Optuna optimization with 20 trials...
+2025-07-23 03:36:42 | __main__ | INFO | Optuna optimization completed.
+2025-07-23 03:36:42 | __main__ | INFO | Training complete - RMSE on test set: 5.9266
+2025-07-23 03:37:37 | __main__ | INFO | Searching for best model in experiment: stock_price_prediction
+2025-07-23 03:37:37 | __main__ | INFO | Registering best model from run_id=2a79263ebd344ed5b481b4d9685d12c9 with RMSE=5.9266
+2025-07-23 03:37:37 | __main__ | INFO | Model registered: name=stock-ema-model, version=3
+2025-07-23 03:43:18 | __main__ | INFO | Successfully logging model from registry.
+2025-07-23 03:43:18 | __main__ | INFO | Loading stock data at 2025-07-22 for 6 stocks.
+2025-07-23 03:43:22 | __main__ | INFO | Exported AAPL data to data/inference/raw/AAPL.csv
+2025-07-23 03:43:22 | __main__ | INFO | Exported GOOGL data to data/inference/raw/GOOGL.csv
+2025-07-23 03:43:22 | __main__ | INFO | Exported MSFT data to data/inference/raw/MSFT.csv
+2025-07-23 03:43:22 | __main__ | INFO | Exported NVDA data to data/inference/raw/NVDA.csv
+2025-07-23 03:43:22 | __main__ | INFO | Exported AMZN data to data/inference/raw/AMZN.csv
+2025-07-23 03:43:22 | __main__ | INFO | Exported META data to data/inference/raw/META.csv
+2025-07-23 03:43:22 | __main__ | INFO | Successfully export inference data.
+2025-07-23 04:07:32 | __main__ | INFO | Successfully logging model from registry.
+2025-07-23 04:07:32 | __main__ | INFO | Loading stock data at 2025-07-22 for 6 stocks.
+2025-07-23 04:07:35 | __main__ | INFO | Exported AAPL data to data/inference/raw/AAPL.csv
+2025-07-23 04:07:35 | __main__ | INFO | Exported GOOGL data to data/inference/raw/GOOGL.csv
+2025-07-23 04:07:35 | __main__ | INFO | Exported MSFT data to data/inference/raw/MSFT.csv
+2025-07-23 04:07:35 | __main__ | INFO | Exported NVDA data to data/inference/raw/NVDA.csv
+2025-07-23 04:07:35 | __main__ | INFO | Exported AMZN data to data/inference/raw/AMZN.csv
+2025-07-23 04:07:35 | __main__ | INFO | Exported META data to data/inference/raw/META.csv
+2025-07-23 04:07:36 | __main__ | INFO | Successfully export inference data.
+2025-07-23 04:09:18 | __main__ | INFO | Successfully logging model from registry.
+2025-07-23 04:09:18 | __main__ | INFO | Loading stock data at 2025-07-22 for 6 stocks.
+2025-07-23 04:09:22 | __main__ | INFO | Exported AAPL data to data/inference/raw/AAPL.csv
+2025-07-23 04:09:22 | __main__ | INFO | Exported GOOGL data to data/inference/raw/GOOGL.csv
+2025-07-23 04:09:22 | __main__ | INFO | Exported MSFT data to data/inference/raw/MSFT.csv
+2025-07-23 04:09:22 | __main__ | INFO | Exported NVDA data to data/inference/raw/NVDA.csv
+2025-07-23 04:09:22 | __main__ | INFO | Exported AMZN data to data/inference/raw/AMZN.csv
+2025-07-23 04:09:22 | __main__ | INFO | Exported META data to data/inference/raw/META.csv
+2025-07-23 04:09:23 | __main__ | INFO | Successfully export inference data.
+2025-07-23 04:09:23 | __main__ | INFO | Prediction saved at data/inference/prediction/latest.csv
+2025-07-23 04:09:23 | __main__ | INFO | Inference Flow finished
+2025-07-23 04:18:54 | __main__ | INFO | Successfully logging model from registry.
+2025-07-23 04:18:54 | __main__ | INFO | Loading stock data at 2025-07-22 for 6 stocks.
+2025-07-23 04:18:58 | __main__ | INFO | Exported AAPL data to data/inference/raw/AAPL.csv
+2025-07-23 04:18:58 | __main__ | INFO | Exported GOOGL data to data/inference/raw/GOOGL.csv
+2025-07-23 04:18:58 | __main__ | INFO | Exported MSFT data to data/inference/raw/MSFT.csv
+2025-07-23 04:18:58 | __main__ | INFO | Exported NVDA data to data/inference/raw/NVDA.csv
+2025-07-23 04:18:58 | __main__ | INFO | Exported AMZN data to data/inference/raw/AMZN.csv
+2025-07-23 04:18:58 | __main__ | INFO | Exported META data to data/inference/raw/META.csv
+2025-07-23 04:18:59 | __main__ | INFO | Successfully export inference data.
+2025-07-23 04:18:59 | __main__ | INFO | Prediction saved at data/inference/prediction/latest.csv
+2025-07-23 04:18:59 | __main__ | INFO | Inference Flow completed successfully.
+2025-07-23 10:09:03 | __main__ | INFO | Starting data preparation flow...
+2025-07-23 10:09:03 | __main__ | INFO | Loading stock data from 2025-01-01 to 2025-07-23 for 6 stocks.
+2025-07-23 10:09:08 | __main__ | INFO | Uploaded AAPL data to S3: data/train/raw/AAPL.csv
+2025-07-23 10:09:09 | __main__ | INFO | Uploaded GOOGL data to S3: data/train/raw/GOOGL.csv
+2025-07-23 10:09:09 | __main__ | INFO | Uploaded MSFT data to S3: data/train/raw/MSFT.csv
+2025-07-23 10:09:10 | __main__ | INFO | Uploaded NVDA data to S3: data/train/raw/NVDA.csv
+2025-07-23 10:09:10 | __main__ | INFO | Uploaded AMZN data to S3: data/train/raw/AMZN.csv
+2025-07-23 10:09:11 | __main__ | INFO | Uploaded META data to S3: data/train/raw/META.csv
+2025-07-23 10:09:12 | __main__ | INFO | Uploaded processed train/test sets to S3
+2025-07-23 10:09:13 | __main__ | INFO | Data preparation flow completed successfully.
+2025-07-23 10:35:57 | __main__ | INFO | Successfully downloaded train and test df from S3 Bucket.
+2025-07-23 10:36:03 | __main__ | INFO | Starting Optuna optimization with 20 trials...
+2025-07-23 10:37:06 | __main__ | INFO | Optuna optimization completed.
+2025-07-23 10:37:06 | __main__ | INFO | Training complete - RMSE on test set: 5.9777
+2025-07-23 10:44:08 | __main__ | INFO | Searching for best model in experiment: stock_price_prediction
+2025-07-23 10:44:08 | __main__ | INFO | Registering best model from run_id=2a79263ebd344ed5b481b4d9685d12c9 with RMSE=5.9266
+2025-07-23 10:44:09 | __main__ | INFO | Model registered: name=stock-ema-model, version=5
+2025-07-23 10:52:53 | __main__ | INFO | Starting data preparation flow...
+2025-07-23 10:52:53 | __main__ | INFO | Loading stock data from 2025-01-01 to 2025-07-23 for 6 stocks.
+2025-07-23 10:52:58 | __main__ | INFO | Uploaded AAPL data to S3: data/train/raw/AAPL.csv
+2025-07-23 10:52:58 | __main__ | INFO | Uploaded GOOGL data to S3: data/train/raw/GOOGL.csv
+2025-07-23 10:52:59 | __main__ | INFO | Uploaded MSFT data to S3: data/train/raw/MSFT.csv
+2025-07-23 10:52:59 | __main__ | INFO | Uploaded NVDA data to S3: data/train/raw/NVDA.csv
+2025-07-23 10:53:00 | __main__ | INFO | Uploaded AMZN data to S3: data/train/raw/AMZN.csv
+2025-07-23 10:53:01 | __main__ | INFO | Uploaded META data to S3: data/train/raw/META.csv
+2025-07-23 10:53:02 | __main__ | INFO | Uploaded processed train/test sets to S3
+2025-07-23 10:53:03 | __main__ | INFO | Data preparation flow completed successfully.
+2025-07-23 13:57:11 | __main__ | INFO | Successfully downloaded train and test df from S3 Bucket.
+2025-07-23 13:57:20 | __main__ | INFO | Starting Optuna optimization with 20 trials...
+2025-07-23 14:01:27 | __main__ | INFO | Optuna optimization completed.
+2025-07-23 14:01:27 | __main__ | INFO | Training complete - RMSE on test set: 6.0733
+2025-07-23 14:09:24 | __main__ | INFO | Searching for best model in experiment: stock_price_prediction
+2025-07-23 14:09:24 | __main__ | INFO | Registering best model from run_id=2a79263ebd344ed5b481b4d9685d12c9 with RMSE=5.9266
+2025-07-23 14:09:24 | __main__ | INFO | Model registered: name=stock-ema-model, version=6
+2025-07-23 14:11:21 | __main__ | INFO | Searching for best model in experiment: stock_price_prediction
+2025-07-23 14:11:22 | __main__ | INFO | Registering best model from run_id=09519101c46943579e256da668106f6d with RMSE=6.0733
+2025-07-23 14:11:33 | __main__ | INFO | Model registered: name=stock-ema-model, version=1
+2025-07-23 14:13:18 | __main__ | INFO | Successfully logging model from registry.
+2025-07-23 14:13:19 | __main__ | INFO | Loading stock data at 2025-07-22 for 6 stocks.
+2025-07-23 14:13:23 | __main__ | INFO | Uploaded AAPL data to S3: data/inference/raw/AAPL.csv
+2025-07-23 14:13:24 | __main__ | INFO | Uploaded GOOGL data to S3: data/inference/raw/GOOGL.csv
+2025-07-23 14:13:25 | __main__ | INFO | Uploaded MSFT data to S3: data/inference/raw/MSFT.csv
+2025-07-23 14:13:25 | __main__ | INFO | Uploaded NVDA data to S3: data/inference/raw/NVDA.csv
+2025-07-23 14:13:26 | __main__ | INFO | Uploaded AMZN data to S3: data/inference/raw/AMZN.csv
+2025-07-23 14:13:27 | __main__ | INFO | Uploaded META data to S3: data/inference/raw/META.csv
+2025-07-23 14:13:46 | __main__ | INFO | Successfully logging model from registry.
+2025-07-23 14:13:47 | __main__ | INFO | Loading stock data at 2025-07-22 for 6 stocks.
+2025-07-23 14:13:52 | __main__ | INFO | Uploaded AAPL data to S3: data/inference/raw/AAPL.csv
+2025-07-23 14:13:52 | __main__ | INFO | Uploaded GOOGL data to S3: data/inference/raw/GOOGL.csv
+2025-07-23 14:13:53 | __main__ | INFO | Uploaded MSFT data to S3: data/inference/raw/MSFT.csv
+2025-07-23 14:13:54 | __main__ | INFO | Uploaded NVDA data to S3: data/inference/raw/NVDA.csv
+2025-07-23 14:13:54 | __main__ | INFO | Uploaded AMZN data to S3: data/inference/raw/AMZN.csv
+2025-07-23 14:13:55 | __main__ | INFO | Uploaded META data to S3: data/inference/raw/META.csv
+2025-07-23 14:13:56 | __main__ | INFO | Successfully export inference data on s3.
+2025-07-23 14:13:57 | __main__ | INFO | Prediction saved at data/inference/prediction/2025-07-23.csv
+2025-07-23 14:13:57 | __main__ | INFO | Inference Flow completed successfully.
+2025-07-23 14:18:12 | __main__ | INFO | Successfully downloaded train and test df from S3 Bucket.
+2025-07-23 14:18:17 | __main__ | INFO | Starting Optuna optimization with 20 trials...
+2025-07-23 14:22:15 | __main__ | INFO | Optuna optimization completed.
+2025-07-23 14:22:15 | __main__ | INFO | Training complete - RMSE on test set: 5.9263
+2025-07-23 14:56:25 | __main__ | INFO | Successfully downloaded train and test df from S3 Bucket.
+2025-07-23 14:56:35 | __main__ | INFO | Starting Optuna optimization with 5 trials...
+2025-07-23 14:57:37 | __main__ | INFO | Optuna optimization completed.
+2025-07-23 14:57:37 | __main__ | INFO | Training complete - RMSE on test set: 8.0547
+2025-07-23 15:03:23 | __main__ | INFO | Successfully downloaded train and test df from S3 Bucket.
+2025-07-23 15:03:31 | __main__ | INFO | Starting Optuna optimization with 5 trials...
+2025-07-23 15:04:38 | __main__ | INFO | Optuna optimization completed.
+2025-07-23 15:04:39 | __main__ | INFO | Training complete - RMSE on test set: 7.7123
+2025-07-23 15:46:21 | __main__ | INFO | Successfully downloaded train and test df from S3 Bucket.
+2025-07-23 15:46:29 | __main__ | INFO | Starting Optuna optimization with 5 trials...
+2025-07-23 15:47:31 | __main__ | INFO | Optuna optimization completed.
+2025-07-23 15:47:31 | __main__ | INFO | Training complete - RMSE on test set: 5.9882
+2025-07-23 16:01:12 | __main__ | INFO | Successfully downloaded train and test df from S3 Bucket.
+2025-07-23 16:03:21 | __main__ | INFO | Successfully downloaded train and test df from S3 Bucket.
+2025-07-23 16:03:28 | __main__ | INFO | Starting Optuna optimization with 5 trials...
+2025-07-23 16:12:33 | __main__ | INFO | Successfully downloaded train and test df from S3 Bucket.
+2025-07-23 16:14:20 | __main__ | INFO | Successfully downloaded train and test df from S3 Bucket.
+2025-07-23 16:14:29 | __main__ | INFO | Starting Optuna optimization with 5 trials...
+2025-07-23 16:18:50 | __main__ | INFO | Successfully downloaded train and test df from S3 Bucket.
+2025-07-23 16:18:59 | __main__ | INFO | Starting Optuna optimization with 5 trials...
+2025-07-23 16:20:15 | __main__ | INFO | Optuna optimization completed.
+2025-07-23 16:20:15 | __main__ | INFO | Training complete - RMSE on test set: 18.7379
+2025-07-23 16:21:26 | __main__ | INFO | Searching for best model in experiment: None
+2025-07-23 16:23:43 | __main__ | INFO | Searching for best model in experiment: zoomcamps-2
+2025-07-23 16:23:44 | __main__ | INFO | Registering best model from run_id=b6d622ce0237439aa9b6fc383a67cea1 with RMSE=18.7379
+2025-07-23 16:23:55 | __main__ | INFO | Model registered: name=stock-ema-model, version=2
+2025-07-23 16:24:39 | __main__ | INFO | Successfully logging model from registry.
+2025-07-23 16:24:40 | __main__ | INFO | Loading stock data at 2025-07-22 for 6 stocks.
+2025-07-23 16:24:43 | __main__ | INFO | Uploaded AAPL data to S3: data/inference/raw/AAPL.csv
+2025-07-23 16:24:44 | __main__ | INFO | Uploaded GOOGL data to S3: data/inference/raw/GOOGL.csv
+2025-07-23 16:24:44 | __main__ | INFO | Uploaded MSFT data to S3: data/inference/raw/MSFT.csv
+2025-07-23 16:24:45 | __main__ | INFO | Uploaded NVDA data to S3: data/inference/raw/NVDA.csv
+2025-07-23 16:24:46 | __main__ | INFO | Uploaded AMZN data to S3: data/inference/raw/AMZN.csv
+2025-07-23 16:24:46 | __main__ | INFO | Uploaded META data to S3: data/inference/raw/META.csv
+2025-07-23 16:24:47 | __main__ | INFO | Successfully export inference data on s3.
+2025-07-23 16:24:48 | __main__ | INFO | Prediction saved at data/inference/prediction/2025-07-23.csv
+2025-07-23 16:24:48 | __main__ | INFO | Inference Flow completed successfully.
+2025-07-24 02:19:38 | __main__ | INFO | Successfully logging model from registry.
+2025-07-24 02:19:39 | __main__ | INFO | Loading stock data at 2025-07-23 for 6 stocks.
+2025-07-24 02:19:42 | __main__ | INFO | Uploaded AAPL data to S3: data/inference/raw/AAPL.csv
+2025-07-24 02:19:42 | __main__ | INFO | Uploaded GOOGL data to S3: data/inference/raw/GOOGL.csv
+2025-07-24 02:19:43 | __main__ | INFO | Uploaded MSFT data to S3: data/inference/raw/MSFT.csv
+2025-07-24 02:19:44 | __main__ | INFO | Uploaded NVDA data to S3: data/inference/raw/NVDA.csv
+2025-07-24 02:19:44 | __main__ | INFO | Uploaded AMZN data to S3: data/inference/raw/AMZN.csv
+2025-07-24 02:19:45 | __main__ | INFO | Uploaded META data to S3: data/inference/raw/META.csv
+2025-07-24 02:19:47 | __main__ | INFO | Successfully export inference data on s3.
+2025-07-24 02:19:48 | __main__ | INFO | Prediction saved at data/inference/prediction/2025-07-24.csv
+2025-07-24 02:19:48 | __main__ | INFO | Inference Flow completed successfully.
+2025-07-25 14:44:08 | src.data_preparation | INFO | Starting data preparation flow...
+2025-07-25 14:44:08 | src.data_preparation | INFO | Loading stock data from 2025-01-01 to 2025-07-25 for 6 stocks.
+2025-07-25 14:45:12 | src.data_preparation | INFO | Starting data preparation flow...
+2025-07-25 14:45:12 | src.data_preparation | INFO | Loading stock data from 2025-01-01 to 2025-07-25 for 6 stocks.
+2025-07-25 14:45:15 | src.data_preparation | INFO | Uploaded AAPL data to S3: data/train/raw/AAPL.csv
+2025-07-25 14:45:16 | src.data_preparation | INFO | Uploaded GOOGL data to S3: data/train/raw/GOOGL.csv
+2025-07-25 14:45:17 | src.data_preparation | INFO | Uploaded MSFT data to S3: data/train/raw/MSFT.csv
+2025-07-25 14:45:18 | src.data_preparation | INFO | Uploaded NVDA data to S3: data/train/raw/NVDA.csv
+2025-07-25 14:45:19 | src.data_preparation | INFO | Uploaded AMZN data to S3: data/train/raw/AMZN.csv
+2025-07-25 14:45:20 | src.data_preparation | INFO | Uploaded META data to S3: data/train/raw/META.csv
+2025-07-25 14:45:22 | src.data_preparation | INFO | Uploaded processed train/test sets to S3
+2025-07-25 14:45:23 | src.data_preparation | INFO | Data preparation flow completed successfully.
+2025-07-25 14:45:26 | src.models.train | INFO | Successfully downloaded train and test df from S3 Bucket.
+2025-07-25 14:49:27 | src.data_preparation | INFO | Starting data preparation flow...
+2025-07-25 14:49:27 | src.data_preparation | INFO | Loading stock data from 2025-01-01 to 2025-07-25 for 6 stocks.
+2025-07-25 14:49:37 | src.data_preparation | INFO | Uploaded AAPL data to S3: data/train/raw/AAPL.csv
+2025-07-25 14:49:38 | src.data_preparation | INFO | Uploaded GOOGL data to S3: data/train/raw/GOOGL.csv
+2025-07-25 14:49:38 | src.data_preparation | INFO | Uploaded MSFT data to S3: data/train/raw/MSFT.csv
+2025-07-25 14:49:39 | src.data_preparation | INFO | Uploaded NVDA data to S3: data/train/raw/NVDA.csv
+2025-07-25 14:49:40 | src.data_preparation | INFO | Uploaded AMZN data to S3: data/train/raw/AMZN.csv
+2025-07-25 14:49:41 | src.data_preparation | INFO | Uploaded META data to S3: data/train/raw/META.csv
+2025-07-25 14:49:42 | src.data_preparation | INFO | Uploaded processed train/test sets to S3
+2025-07-25 14:49:44 | src.data_preparation | INFO | Data preparation flow completed successfully.
+2025-07-25 14:49:46 | src.models.train | INFO | Successfully downloaded train and test df from S3 Bucket.
+2025-07-25 14:49:59 | src.inference | INFO | Successfully logging model from registry.
+2025-07-25 14:53:39 | src.data_preparation | INFO | Starting data preparation flow...
+2025-07-25 14:53:39 | src.data_preparation | INFO | Loading stock data from 2025-01-01 to 2025-07-25 for 6 stocks.
+2025-07-25 14:53:42 | src.data_preparation | INFO | Uploaded AAPL data to S3: data/train/raw/AAPL.csv
+2025-07-25 14:53:43 | src.data_preparation | INFO | Uploaded GOOGL data to S3: data/train/raw/GOOGL.csv
+2025-07-25 14:53:44 | src.data_preparation | INFO | Uploaded MSFT data to S3: data/train/raw/MSFT.csv
+2025-07-25 14:53:45 | src.data_preparation | INFO | Uploaded NVDA data to S3: data/train/raw/NVDA.csv
+2025-07-25 14:53:46 | src.data_preparation | INFO | Uploaded AMZN data to S3: data/train/raw/AMZN.csv
+2025-07-25 14:53:46 | src.data_preparation | INFO | Uploaded META data to S3: data/train/raw/META.csv
+2025-07-25 14:53:48 | src.data_preparation | INFO | Uploaded processed train/test sets to S3
+2025-07-25 14:53:50 | src.data_preparation | INFO | Data preparation flow completed successfully.
+2025-07-25 14:53:51 | src.models.train | INFO | Successfully downloaded train and test df from S3 Bucket.
+2025-07-25 14:54:03 | src.inference | INFO | Successfully logging model from registry.
+2025-07-25 14:54:03 | __main__ | INFO | Pushed RMSE 19.13248785865374 to Pushgateway
+2025-07-25 15:11:24 | src.data_preparation | INFO | Starting data preparation flow...
+2025-07-25 15:11:24 | src.data_preparation | INFO | Loading stock data from 2025-01-01 to 2025-07-25 for 6 stocks.
+2025-07-25 15:11:28 | src.data_preparation | INFO | Uploaded AAPL data to S3: data/train/raw/AAPL.csv
+2025-07-25 15:11:29 | src.data_preparation | INFO | Uploaded GOOGL data to S3: data/train/raw/GOOGL.csv
+2025-07-25 15:11:30 | src.data_preparation | INFO | Uploaded MSFT data to S3: data/train/raw/MSFT.csv
+2025-07-25 15:11:31 | src.data_preparation | INFO | Uploaded NVDA data to S3: data/train/raw/NVDA.csv
+2025-07-25 15:11:32 | src.data_preparation | INFO | Uploaded AMZN data to S3: data/train/raw/AMZN.csv
+2025-07-25 15:11:32 | src.data_preparation | INFO | Uploaded META data to S3: data/train/raw/META.csv
+2025-07-25 15:11:34 | src.data_preparation | INFO | Uploaded processed train/test sets to S3
+2025-07-25 15:11:36 | src.data_preparation | INFO | Data preparation flow completed successfully.
+2025-07-25 15:11:38 | src.models.train | INFO | Successfully downloaded train and test df from S3 Bucket.
+2025-07-25 15:11:51 | src.inference | INFO | Successfully logging model from registry.
+2025-07-25 15:11:51 | __main__ | INFO | Pushed RMSE 19.13248785865374 to Pushgateway
+2025-07-25 20:33:47 | __main__ | INFO | Pushed RMSE 20 to Pushgateway
+2025-07-25 20:39:16 | __main__ | INFO | Pushed RMSE 19.5 to Pushgateway
+2025-07-25 20:41:28 | src.data_preparation | INFO | Starting data preparation flow...
+2025-07-25 20:41:28 | src.data_preparation | INFO | Loading stock data from 2025-01-01 to 2025-07-25 for 6 stocks.
+2025-07-25 20:41:30 | src.data_preparation | INFO | Uploaded AAPL data to S3: data/train/raw/AAPL.csv
+2025-07-25 20:41:31 | src.data_preparation | INFO | Uploaded GOOGL data to S3: data/train/raw/GOOGL.csv
+2025-07-25 20:41:31 | src.data_preparation | INFO | Uploaded MSFT data to S3: data/train/raw/MSFT.csv
+2025-07-25 20:41:32 | src.data_preparation | INFO | Uploaded NVDA data to S3: data/train/raw/NVDA.csv
+2025-07-25 20:41:32 | src.data_preparation | INFO | Uploaded AMZN data to S3: data/train/raw/AMZN.csv
+2025-07-25 20:41:33 | src.data_preparation | INFO | Uploaded META data to S3: data/train/raw/META.csv
+2025-07-25 20:41:34 | src.data_preparation | INFO | Uploaded processed train/test sets to S3
+2025-07-25 20:41:35 | src.data_preparation | INFO | Data preparation flow completed successfully.
+2025-07-25 20:41:37 | src.models.train | INFO | Successfully downloaded train and test df from S3 Bucket.
+2025-07-25 22:42:22 | __main__ | INFO | Pushed RMSE 19.25 to Pushgateway
+2025-07-25 23:09:11 | __main__ | INFO | Pushed RMSE 21 to Pushgateway
+2025-07-25 23:16:35 | __main__ | INFO | Pushed RMSE 22 to Pushgateway
+2025-07-25 23:18:30 | __main__ | INFO | Pushed RMSE 27 to Pushgateway
+2025-07-25 23:43:04 | __main__ | INFO | Pushed RMSE 25 to Pushgateway
+2025-07-26 09:25:26 | __main__ | INFO | Pushed RMSE 26 to Pushgateway
+2025-07-26 09:28:26 | __main__ | INFO | Pushed RMSE 28 to Pushgateway
+2025-07-26 09:30:21 | __main__ | INFO | Pushed RMSE 23 to Pushgateway
+2025-07-26 09:32:09 | src.data_preparation | INFO | Starting data preparation flow...
+2025-07-26 09:32:09 | src.data_preparation | INFO | Loading stock data from 2025-01-01 to 2025-07-26 for 6 stocks.
+2025-07-26 09:32:12 | src.data_preparation | INFO | Uploaded AAPL data to S3: data/train/raw/AAPL.csv
+2025-07-26 09:32:12 | src.data_preparation | INFO | Uploaded GOOGL data to S3: data/train/raw/GOOGL.csv
+2025-07-26 09:32:13 | src.data_preparation | INFO | Uploaded MSFT data to S3: data/train/raw/MSFT.csv
+2025-07-26 09:32:13 | src.data_preparation | INFO | Uploaded NVDA data to S3: data/train/raw/NVDA.csv
+2025-07-26 09:32:14 | src.data_preparation | INFO | Uploaded AMZN data to S3: data/train/raw/AMZN.csv
+2025-07-26 09:32:14 | src.data_preparation | INFO | Uploaded META data to S3: data/train/raw/META.csv
+2025-07-26 09:32:16 | src.data_preparation | INFO | Uploaded processed train/test sets to S3
+2025-07-26 09:32:17 | src.data_preparation | INFO | Data preparation flow completed successfully.
+2025-07-26 09:32:19 | src.models.train | INFO | Successfully downloaded train and test df from S3 Bucket.
+2025-07-26 11:47:12 | src.inference | INFO | Successfully logging model from registry.
+2025-07-26 11:47:12 | __main__ | INFO | Pushed RMSE 19.277636999478375 to Pushgateway
+2025-07-26 11:59:05 | __main__ | INFO | Pushed RMSE 25 to Pushgateway
+2025-07-26 22:01:10 | src.models.train | INFO | Successfully downloaded train and test df from S3 Bucket.
+2025-07-26 22:01:10 | src.inference | INFO | Loading stock data at 2025-07-25 for         6 stocks.
+2025-07-26 22:01:14 | src.inference | INFO | Uploaded AAPL data to S3:             data/inference/raw/AAPL.csv
+2025-07-26 22:01:14 | src.inference | INFO | Uploaded GOOGL data to S3:             data/inference/raw/GOOGL.csv
+2025-07-26 22:01:15 | src.inference | INFO | Uploaded MSFT data to S3:             data/inference/raw/MSFT.csv
+2025-07-26 22:01:15 | src.inference | INFO | Uploaded NVDA data to S3:             data/inference/raw/NVDA.csv
+2025-07-26 22:01:16 | src.inference | INFO | Uploaded AMZN data to S3:             data/inference/raw/AMZN.csv
+2025-07-26 22:01:16 | src.inference | INFO | Uploaded META data to S3:             data/inference/raw/META.csv
+2025-07-26 22:12:53 | src.models.train | INFO | Successfully downloaded train and test df from S3 Bucket.
+2025-07-26 22:17:17 | src.models.train | INFO | Starting Optuna optimization with 2 trials...
+2025-07-26 22:18:47 | src.models.train | INFO | Starting Optuna optimization with 2 trials...
+2025-07-26 22:19:09 | src.models.train | INFO | Optuna optimization completed.
+2025-07-27 10:45:54 | __main__ | INFO | Successfully logging model from registry.
+2025-07-27 10:45:59 | __main__ | INFO | Loading stock data at 2025-07-26 for         6 stocks.
+2025-07-27 10:46:04 | __main__ | INFO | Uploaded AAPL data to S3:             data/inference/raw/AAPL.csv
+2025-07-27 10:46:04 | __main__ | INFO | Uploaded GOOGL data to S3:             data/inference/raw/GOOGL.csv
+2025-07-27 10:46:05 | __main__ | INFO | Uploaded MSFT data to S3:             data/inference/raw/MSFT.csv
+2025-07-27 10:46:05 | __main__ | INFO | Uploaded NVDA data to S3:             data/inference/raw/NVDA.csv
+2025-07-27 10:46:06 | __main__ | INFO | Uploaded AMZN data to S3:             data/inference/raw/AMZN.csv
+2025-07-27 10:46:06 | __main__ | INFO | Uploaded META data to S3:             data/inference/raw/META.csv
+2025-07-27 10:48:24 | __main__ | INFO | Successfully logging model from registry.
+2025-07-27 10:48:33 | __main__ | INFO | Loading stock data at 2025-07-26 for         6 stocks.
+2025-07-27 10:48:37 | __main__ | INFO | Uploaded AAPL data to S3:             data/inference/raw/AAPL.csv
+2025-07-27 10:48:37 | __main__ | INFO | Uploaded GOOGL data to S3:             data/inference/raw/GOOGL.csv
+2025-07-27 10:48:38 | __main__ | INFO | Uploaded MSFT data to S3:             data/inference/raw/MSFT.csv
+2025-07-27 10:48:38 | __main__ | INFO | Uploaded NVDA data to S3:             data/inference/raw/NVDA.csv
+2025-07-27 10:48:39 | __main__ | INFO | Uploaded AMZN data to S3:             data/inference/raw/AMZN.csv
+2025-07-27 10:48:39 | __main__ | INFO | Uploaded META data to S3:             data/inference/raw/META.csv
+2025-07-27 10:48:40 | __main__ | INFO | Successfully export inference data on s3.
+2025-07-27 10:50:03 | __main__ | INFO | Successfully logging model from registry.
+2025-07-27 10:50:12 | __main__ | INFO | Loading stock data at 2025-07-26 for         6 stocks.
+2025-07-27 10:50:16 | __main__ | INFO | Uploaded AAPL data to S3:             data/inference/raw/AAPL.csv
+2025-07-27 10:50:17 | __main__ | INFO | Uploaded GOOGL data to S3:             data/inference/raw/GOOGL.csv
+2025-07-27 10:50:17 | __main__ | INFO | Uploaded MSFT data to S3:             data/inference/raw/MSFT.csv
+2025-07-27 10:50:18 | __main__ | INFO | Uploaded NVDA data to S3:             data/inference/raw/NVDA.csv
+2025-07-27 10:50:19 | __main__ | INFO | Uploaded AMZN data to S3:             data/inference/raw/AMZN.csv
+2025-07-27 10:50:19 | __main__ | INFO | Uploaded META data to S3:             data/inference/raw/META.csv
+2025-07-27 10:50:20 | __main__ | INFO | Successfully export inference data on s3.
+2025-07-27 10:50:21 | __main__ | INFO | Prediction saved at data/inference/prediction/2025-07-27.csv
+2025-07-27 10:50:21 | __main__ | INFO | Inference Flow completed successfully.
+2025-07-27 10:52:35 | __main__ | INFO | Successfully logging model from registry.
+2025-07-27 10:52:42 | __main__ | INFO | Loading stock data at 2025-07-26 for         6 stocks.
+2025-07-27 10:52:47 | __main__ | INFO | Uploaded AAPL data to S3:             data/inference/raw/AAPL.csv
+2025-07-27 10:52:48 | __main__ | INFO | Uploaded GOOGL data to S3:             data/inference/raw/GOOGL.csv
+2025-07-27 10:52:48 | __main__ | INFO | Uploaded MSFT data to S3:             data/inference/raw/MSFT.csv
+2025-07-27 10:52:51 | __main__ | INFO | Uploaded NVDA data to S3:             data/inference/raw/NVDA.csv
+2025-07-27 10:52:51 | __main__ | INFO | Uploaded AMZN data to S3:             data/inference/raw/AMZN.csv
+2025-07-27 10:52:52 | __main__ | INFO | Uploaded META data to S3:             data/inference/raw/META.csv
+2025-07-27 10:52:54 | __main__ | INFO | Successfully export inference data on s3.
+2025-07-27 10:52:55 | __main__ | INFO | Prediction saved at data/inference/prediction/2025-07-27.csv
+2025-07-27 10:52:55 | __main__ | INFO | Inference Flow completed successfully.
+2025-07-27 11:11:28 | __main__ | INFO | Pushed RMSE 22 to Pushgateway
+2025-07-27 11:51:24 | src.models.train | INFO | Successfully downloaded train and test df from S3 Bucket.
+2025-07-27 11:51:29 | src.models.train | INFO | Starting Optuna optimization with 2 trials...
+2025-07-27 11:51:48 | src.models.train | INFO | Optuna optimization completed.
+2025-07-27 17:16:39 | __main__ | INFO | Starting data preparation flow...
+2025-07-27 17:16:39 | __main__ | INFO | Loading stock data from 2025-01-01 to 2025-07-27         for 6 stocks.
+2025-07-27 17:16:49 | __main__ | INFO | Uploaded AAPL data to S3:             data/train/raw/AAPL.csv
+2025-07-27 17:16:50 | __main__ | INFO | Uploaded GOOGL data to S3:             data/train/raw/GOOGL.csv
+2025-07-27 17:16:51 | __main__ | INFO | Uploaded MSFT data to S3:             data/train/raw/MSFT.csv
+2025-07-27 17:16:52 | __main__ | INFO | Uploaded NVDA data to S3:             data/train/raw/NVDA.csv
+2025-07-27 17:16:52 | __main__ | INFO | Uploaded AMZN data to S3:             data/train/raw/AMZN.csv
+2025-07-27 17:16:53 | __main__ | INFO | Uploaded META data to S3:             data/train/raw/META.csv
+2025-07-27 17:22:28 | __main__ | INFO | Starting data preparation flow...
+2025-07-27 17:22:28 | __main__ | INFO | Loading stock data from 2025-01-01 to 2025-07-27         for 6 stocks.
+2025-07-27 17:22:41 | __main__ | INFO | Uploaded AAPL data to S3:             data/train/raw/AAPL.csv
+2025-07-27 17:22:42 | __main__ | INFO | Uploaded GOOGL data to S3:             data/train/raw/GOOGL.csv
+2025-07-27 17:22:42 | __main__ | INFO | Uploaded MSFT data to S3:             data/train/raw/MSFT.csv
+2025-07-27 17:22:43 | __main__ | INFO | Uploaded NVDA data to S3:             data/train/raw/NVDA.csv
+2025-07-27 17:22:43 | __main__ | INFO | Uploaded AMZN data to S3:             data/train/raw/AMZN.csv
+2025-07-27 17:22:44 | __main__ | INFO | Uploaded META data to S3:             data/train/raw/META.csv
+2025-07-27 17:22:45 | __main__ | INFO | Uploaded processed train/test sets to S3
+2025-07-27 17:22:46 | __main__ | INFO | Data preparation flow completed successfully.
+2025-07-27 17:24:36 | __main__ | INFO | Successfully downloaded train and test df from S3 Bucket.
+2025-07-27 17:24:47 | __main__ | INFO | Starting Optuna optimization with 5 trials...
+2025-07-27 17:27:15 | __main__ | INFO | Successfully downloaded train and test df from S3 Bucket.
+2025-07-27 17:27:26 | __main__ | INFO | Starting Optuna optimization with 5 trials...
+2025-07-27 17:29:45 | __main__ | INFO | Optuna optimization completed.
+2025-07-27 17:29:45 | __main__ | INFO | Training complete - RMSE on test set: 7.9990
+2025-07-27 17:30:31 | __main__ | INFO | Searching for best model in experiment: zoomcamps-7
+2025-07-27 17:30:31 | __main__ | INFO | Registering best model from run_id=8572e77b545149929e1523f8de772b93 with RMSE=7.9990
+2025-07-27 17:30:45 | __main__ | INFO | Model registered: name=stock-ema-model, version=3
+2025-07-27 17:31:39 | __main__ | INFO | Successfully logging model from registry.
+2025-07-27 17:31:45 | __main__ | INFO | Loading stock data at 2025-07-26 for         6 stocks.
+2025-07-27 17:31:49 | __main__ | INFO | Uploaded AAPL data to S3:             data/inference/raw/AAPL.csv
+2025-07-27 17:31:50 | __main__ | INFO | Uploaded GOOGL data to S3:             data/inference/raw/GOOGL.csv
+2025-07-27 17:31:50 | __main__ | INFO | Uploaded MSFT data to S3:             data/inference/raw/MSFT.csv
+2025-07-27 17:31:51 | __main__ | INFO | Uploaded NVDA data to S3:             data/inference/raw/NVDA.csv
+2025-07-27 17:31:51 | __main__ | INFO | Uploaded AMZN data to S3:             data/inference/raw/AMZN.csv
+2025-07-27 17:31:52 | __main__ | INFO | Uploaded META data to S3:             data/inference/raw/META.csv
+2025-07-27 17:31:53 | __main__ | INFO | Successfully export inference data on s3.
+2025-07-27 17:31:54 | __main__ | INFO | Prediction saved at data/inference/prediction/2025-07-27.csv
+2025-07-27 17:31:54 | __main__ | INFO | Inference Flow completed successfully.
+2025-07-27 17:33:30 | __main__ | INFO | Pushed RMSE 28 to Pushgateway
+2025-07-27 17:35:17 | src.data_preparation | INFO | Starting data preparation flow...
+2025-07-27 17:35:17 | src.data_preparation | INFO | Loading stock data from 2025-01-01 to 2025-07-27         for 6 stocks.
+2025-07-27 17:35:46 | src.data_preparation | INFO | Uploaded AAPL data to S3:             data/train/raw/AAPL.csv
+2025-07-27 17:35:46 | src.data_preparation | INFO | Uploaded GOOGL data to S3:             data/train/raw/GOOGL.csv
+2025-07-27 17:35:47 | src.data_preparation | INFO | Uploaded MSFT data to S3:             data/train/raw/MSFT.csv
+2025-07-27 17:35:47 | src.data_preparation | INFO | Uploaded NVDA data to S3:             data/train/raw/NVDA.csv
+2025-07-27 17:35:48 | src.data_preparation | INFO | Uploaded AMZN data to S3:             data/train/raw/AMZN.csv
+2025-07-27 17:35:48 | src.data_preparation | INFO | Uploaded META data to S3:             data/train/raw/META.csv
+2025-07-27 17:35:50 | src.data_preparation | INFO | Uploaded processed train/test sets to S3
+2025-07-27 17:35:52 | src.data_preparation | INFO | Data preparation flow completed successfully.
+2025-07-27 17:35:54 | src.models.train | INFO | Successfully downloaded train and test df from S3 Bucket.
